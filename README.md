@@ -1,6 +1,6 @@
 # Retaj Milhem
 
-**AI & Machine Learning · NLP · Retrieval-Augmented Generation**
+**Data Science · AI & Machine Learning · NLP**
 
 I'm a developer based in Jordan, building machine learning applications with Python. My work includes Transformer sentiment analysis, retrieval-augmented generation, and predictive modeling, alongside data analysis and visualization.
 
